@@ -25,6 +25,8 @@ This document describes makeheaders, a tool that automatically generates _".h"_ 
 * [Using Makeheaders To Generate Documentation](#using-makeheaders-to-generate-documentation)
 * [Compiling The Makeheaders Program](#compiling-the-makeheaders-program)
 * [Summary And Conclusion](#summary-and-conclusion)
+* [License](#license)
+* [Authors](#authors)
 
 ## Background
 
@@ -439,4 +441,9 @@ The makeheaders program has been in use since 1994, in a wide variety of project
 
 ## License
 
-Makeheaders is released under the 
+Makeheaders is released under the BSD 2-Clause "Simplified" License
+
+## Authors
+
+* D. Richard Hipp
+
